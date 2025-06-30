@@ -1,1 +1,2 @@
+AWS_KEY=mock_AKIAIOSFODNN7EXAMPLE
 Updated test content
